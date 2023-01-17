@@ -36,7 +36,7 @@ Böylece dizi insertion sort algoritmasına göre sıralanmış olur
 
     * (n-1)*(n-2) = $n^2$ - 3n + 2
 
-    * Big O Notation = O($n^2$)'dir
+    * Big O Notation = O( $n^2$ )'dir
     ***
 3. Time Complexity : [22,27,16,2,18,6] dizisi sıralandıktan sonra 18 sayısı hangi case içinde yer almaktadır?
 
