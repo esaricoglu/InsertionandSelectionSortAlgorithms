@@ -1,0 +1,1 @@
+Patika.dev Veri Yapıları ve Algoritmalar eğitimi kapsamında oluşturulmuş bir Insertion Sort ve Selection Sort Algoritması projesidir.
